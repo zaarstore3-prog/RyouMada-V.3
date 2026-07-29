@@ -1,0 +1,2209 @@
+{
+  "users": {
+    "6285656866700@s.whatsapp.net": {
+      "uid": 10001,
+      "name": "Syahrul",
+      "uang": {
+        "__bigint__": "192411363716969"
+      },
+      "level": {
+        "__bigint__": "134"
+      },
+      "xp": {
+        "__bigint__": "100002460"
+      },
+      "role": "owner",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾",
+        "🌻 RyouMada Season 1☀️"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {
+        "BTC": {
+          "__bigint__": "0"
+        }
+      },
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785134825824,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "30/7/2026",
+      "daily": {
+        "streak": 2,
+        "last_claim": 1785215176611
+      },
+      "afk_reason": "",
+      "bank": {
+        "tabungan": {
+          "__bigint__": "0"
+        },
+        "last_interest": 1785225524888
+      }
+    },
+    "6281235774627@s.whatsapp.net": {
+      "uid": 10002,
+      "name": "ghal ler𝔍",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "35"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785135801505,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "6282134022946@s.whatsapp.net": {
+      "uid": 10003,
+      "name": "Zakiel",
+      "uang": {
+        "__bigint__": "6970"
+      },
+      "level": {
+        "__bigint__": "118"
+      },
+      "xp": {
+        "__bigint__": "67677167"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾",
+        "🌻 RyouMada Season 1☀️"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {
+        "GLD": {
+          "__bigint__": "0"
+        },
+        "WEEB": {
+          "__bigint__": "426716147"
+        }
+      },
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785136600780,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "1"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "1"
+        },
+        "due_time": 1785158782791,
+        "next_penalty": 1785162382791
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 49,
+      "last_reset": "28/7/2026"
+    },
+    "6281399967119@s.whatsapp.net": {
+      "uid": 10004,
+      "name": "Aku_Sisaka",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "2"
+      },
+      "xp": {
+        "__bigint__": "235"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {
+        "mancing": 1785220859155,
+        "kerja": 1785220974290
+      },
+      "anak": [],
+      "invest": {
+        "GLD": {
+          "__bigint__": "0"
+        }
+      },
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785136657526,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 20,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "8999999999986000"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "9000000000000000"
+        },
+        "due_time": 1786938328838,
+        "next_penalty": 1786941928838
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 39,
+      "last_reset": "28/7/2026",
+      "ikan": {
+        "lele": {
+          "__bigint__": "2"
+        },
+        "bawal": {
+          "__bigint__": "1"
+        }
+      },
+      "bank": {
+        "tabungan": {
+          "__bigint__": "0"
+        },
+        "last_interest": 1785220550495
+      }
+    },
+    "6283857889052@s.whatsapp.net": {
+      "uid": 10005,
+      "name": "Butterfly🦋",
+      "uang": {
+        "__bigint__": "69696969701969"
+      },
+      "level": {
+        "__bigint__": "118"
+      },
+      "xp": {
+        "__bigint__": "67676917"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾",
+        "🌻 RyouMada Season 1☀️"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785136776362,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0,
+        "next_penalty": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 45,
+      "last_reset": "28/7/2026"
+    },
+    "6287878035473@s.whatsapp.net": {
+      "uid": 10007,
+      "name": "‏hm‮‏",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "2"
+      },
+      "xp": {
+        "__bigint__": "365"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785137152384,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 35,
+      "last_reset": "28/7/2026",
+      "afk_reason": ""
+    },
+    "573180681264@s.whatsapp.net": {
+      "uid": 10008,
+      "name": "‏志摩リンでン",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "70"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785137189363,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "49590162215138@lid": {
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "gld": {
+        "__bigint__": "0"
+      }
+    },
+    "6282193972901@s.whatsapp.net": {
+      "uid": 10009,
+      "name": "rinaa",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "10"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785139854873,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 49,
+      "last_reset": "27/7/2026"
+    },
+    "62895705125194@s.whatsapp.net": {
+      "uid": 10010,
+      "name": "Adnann",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785141058549,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "27/7/2026"
+    },
+    "131361675456632@lid": {
+      "uid": 10011,
+      "name": "Type your name here",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "35"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785141129719,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "6281326707737@s.whatsapp.net": {
+      "uid": 10012,
+      "name": "mhrd",
+      "uang": {
+        "__bigint__": "69696969701969"
+      },
+      "level": {
+        "__bigint__": "118"
+      },
+      "xp": {
+        "__bigint__": "67676792"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾",
+        "🌻 RyouMada Season 1☀️"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785142747593,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 49,
+      "last_reset": "28/7/2026"
+    },
+    "6285212106529@s.whatsapp.net": {
+      "uid": 10013,
+      "name": "Rizzqe Biee",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "2"
+      },
+      "xp": {
+        "__bigint__": "135"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785144020184,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "30/7/2026"
+    },
+    "49212020490344@lid": {
+      "uid": 10014,
+      "name": "zai?",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785144087608,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "27/7/2026"
+    },
+    "6282298084103@s.whatsapp.net": {
+      "uid": 10015,
+      "name": "Arya",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "30"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785145033559,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "29/7/2026"
+    },
+    "6283117004713@s.whatsapp.net": {
+      "uid": 10016,
+      "name": "Butterfly",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "40"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785151864337,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        "due_time": 1787788364624,
+        "next_penalty": 1787791964624
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 48,
+      "last_reset": "28/7/2026"
+    },
+    "120363406818671195@newsletter": {
+      "uid": 10017,
+      "name": "Player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "2"
+      },
+      "xp": {
+        "__bigint__": "135"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785152243731,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "30/7/2026"
+    },
+    "62882000622151@s.whatsapp.net": {
+      "uid": 10018,
+      "name": "Muhammad Bocchan",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785154596707,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "27/7/2026"
+    },
+    "6285111410125@s.whatsapp.net": {
+      "uid": 10019,
+      "name": "S",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "2"
+      },
+      "xp": {
+        "__bigint__": "160"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785155493773,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "30/7/2026"
+    },
+    "117527770325142@lid": {
+      "uid": 10020,
+      "name": "Player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "15"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785156401153,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 49,
+      "last_reset": "28/7/2026"
+    },
+    "6281515625040@s.whatsapp.net": {
+      "uid": 10021,
+      "name": "Sapamu",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "60"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785158271446,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 48,
+      "last_reset": "28/7/2026"
+    },
+    "6285124713318@s.whatsapp.net": {
+      "uid": 10022,
+      "name": "Fahh",
+      "uang": {
+        "__bigint__": "69696969701969"
+      },
+      "level": {
+        "__bigint__": "118"
+      },
+      "xp": {
+        "__bigint__": "67676787"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾",
+        "🌻 RyouMada Season 1☀️"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 2,
+      "exp_buff_until": 1785184877287,
+      "banned_until": 0,
+      "joined_at": 1785159633629,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 48,
+      "last_reset": "27/7/2026"
+    },
+    "6283171403613@s.whatsapp.net": {
+      "uid": 10023,
+      "name": "Fathiaa",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "10"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785161636107,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "209517849641206@lid": {
+      "uid": 10024,
+      "name": "MiTw",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785214991452,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "62895328789576@s.whatsapp.net": {
+      "uid": 10025,
+      "name": "NaurahDzakiyah_22",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "10"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785216526543,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "6287846622578@s.whatsapp.net": {
+      "uid": 10026,
+      "name": "Kiano Rafasya Putra",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785220303013,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "120363428893850045@g.us": {
+      "uid": 10027,
+      "name": "Player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "20"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785225445144,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 47,
+      "last_reset": "28/7/2026"
+    },
+    "6289682035252@s.whatsapp.net": {
+      "uid": 10028,
+      "name": "alzaini",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785227226544,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "190237540147402@lid": {
+      "uid": 10029,
+      "name": "Yth. Ananda Chizu, S.D., S.Mp.,",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "10"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785232584106,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "28/7/2026"
+    },
+    "6289677874643@s.whatsapp.net": {
+      "uid": 10030,
+      "name": "piow",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "2"
+      },
+      "xp": {
+        "__bigint__": "105"
+      },
+      "role": "player",
+      "status_hubungan": "pacaran",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "australia",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "female",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785332857628,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 42,
+      "last_reset": "29/7/2026",
+      "pasangan": {
+        "id": 164471,
+        "nama": "Satoru Gojou",
+        "point_asmara": 0,
+        "uang": {
+          "__bigint__": "0"
+        },
+        "kehamilan": false,
+        "waktu_mulai": 0
+      },
+      "act_session": {
+        "1": "jalan",
+        "2": "suapi",
+        "3": "cium"
+      },
+      "bank": {
+        "tabungan": {
+          "__bigint__": "0"
+        },
+        "last_interest": 1785336214328
+      },
+      "ig": "lenadlns_"
+    },
+    "6283871824192@s.whatsapp.net": {
+      "uid": 10031,
+      "name": "public void mda_arf9",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "15"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785337009521,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "29/7/2026"
+    },
+    "55766576816283@lid": {
+      "uid": 10032,
+      "name": "Laniyah",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan RyouMada",
+      "location": "Belum diatur",
+      "badges": [
+        "👾RyouMada First Generation👾"
+      ],
+      "active_badge": "👾RyouMada First Generation👾",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1785359670411,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "isPremium": false,
+      "limit": 50,
+      "last_reset": "30/7/2026"
+    }
+  },
+  "market": {
+    "WEEB": {
+      "price": {
+        "__bigint__": "687000"
+      },
+      "next_update": 1785361261019,
+      "trend": "📉 Turun"
+    },
+    "GLD": {
+      "price": {
+        "__bigint__": "4500000"
+      },
+      "next_update": 1785361501019,
+      "trend": "📈 Naik"
+    },
+    "SOL": {
+      "price": {
+        "__bigint__": "39000000"
+      },
+      "next_update": 1785362101019,
+      "trend": "📈 Naik"
+    },
+    "ETH": {
+      "price": {
+        "__bigint__": "42000000"
+      },
+      "next_update": 1785363001019,
+      "trend": "📉 Turun"
+    },
+    "BTC": {
+      "price": {
+        "__bigint__": "1742000000"
+      },
+      "next_update": 1785364801019,
+      "trend": "📈 Naik"
+    }
+  },
+  "market_ikan": {},
+  "global": {
+    "antispam": false,
+    "klaim_pasangan": {},
+    "pending_acc": {},
+    "redeem_codes": {
+      "BMJ6QB": {
+        "reward": {
+          "uang": {
+            "__bigint__": "69696969696969"
+          },
+          "xp": {
+            "__bigint__": "67676767"
+          },
+          "double_xp_jam": 7
+        },
+        "limit": 1,
+        "used": 0,
+        "claimed_by": [],
+        "expired": 865785137920042,
+        "creator": "6285656866700@s.whatsapp.net"
+      },
+      "UPDATERYOUMADAV3": {
+        "reward": {
+          "uang": {
+            "__bigint__": "69696969696969"
+          },
+          "xp": {
+            "__bigint__": "67676767"
+          },
+          "double_xp_jam": 7,
+          "badge": "🌻 RyouMada Season 1☀️"
+        },
+        "limit": 1000000,
+        "used": 5,
+        "claimed_by": [
+          "6285656866700@s.whatsapp.net",
+          "6281326707737@s.whatsapp.net",
+          "6282134022946@s.whatsapp.net",
+          "6285124713318@s.whatsapp.net",
+          "6283857889052@s.whatsapp.net"
+        ],
+        "expired": 865785139277816,
+        "creator": "6285656866700@s.whatsapp.net"
+      }
+    },
+    "owner_utama": "6285656866700@s.whatsapp.net",
+    "donatur": {},
+    "acc_group": "",
+    "last_uid": 10032,
+    "whitelist_karakter": [],
+    "muted_groups": {},
+    "reports": {},
+    "jadibot": {
+      "requests": {
+        "P4PLEO": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "active",
+          "created_at": 1785155569288,
+          "approved_at": 1785155601675
+        },
+        "XPCTDA": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "active",
+          "created_at": 1785156370075,
+          "approved_at": 1785156468290
+        },
+        "2W2QYZ": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "approved",
+          "created_at": 1785157094675,
+          "approved_at": 1785157125311
+        },
+        "8H2P7V": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "approved",
+          "created_at": 1785157137732,
+          "approved_at": 1785157150599
+        },
+        "MMVK9K": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "approved",
+          "created_at": 1785157680339,
+          "approved_at": 1785157727755
+        },
+        "WMNCKJ": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785191077707,
+          "approved_at": 1785191102567
+        },
+        "ZSQWA9": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785192126833,
+          "approved_at": 1785192152485
+        },
+        "KI7K57": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785204570518,
+          "approved_at": 1785204597718
+        },
+        "UHOYEJ": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785206072335,
+          "approved_at": 1785206097917
+        },
+        "4Q1PCT": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785206491958,
+          "approved_at": 1785206521815
+        },
+        "C5UFPR": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "active",
+          "created_at": 1785206563363,
+          "approved_at": 1785206577093
+        },
+        "Y627A2": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785231797777,
+          "approved_at": 1785231832199
+        },
+        "QH30FE": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785232709787,
+          "approved_at": 1785232729848
+        },
+        "KP1G10": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "pending_pairing",
+          "created_at": 1785235317818,
+          "approved_at": 1785235336673
+        },
+        "YZT2EA": {
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul",
+          "number": "6285111410125",
+          "status": "active",
+          "created_at": 1785236515499,
+          "approved_at": 1785236631200
+        }
+      },
+      "active": {
+        "6285656866700@s.whatsapp.net": {
+          "sessionId": "YZT2EA",
+          "number": "6285111410125",
+          "sessionDir": "jadibot_6285111410125",
+          "started_at": 1785361228110,
+          "requester": "6285656866700@s.whatsapp.net",
+          "requesterName": "Syahrul"
+        }
+      }
+    },
+    "lid_map": {
+      "117527770325142@lid": "6285656866700@s.whatsapp.net",
+      "54658542338285@lid": "6285111410125@s.whatsapp.net",
+      "218824892743875@lid": "6287878035473@s.whatsapp.net",
+      "126521851301940@lid": "573180681264@s.whatsapp.net",
+      "146192314970271@lid": "6281326707737@s.whatsapp.net",
+      "172447835885771@lid": "62895328789576@s.whatsapp.net",
+      "49590162215138@lid": "6285212106529@s.whatsapp.net",
+      "72388016365602@lid": "6281515625040@s.whatsapp.net",
+      "185113409249357@lid": "6287846622578@s.whatsapp.net",
+      "266124998484059@lid": "6281399967119@s.whatsapp.net",
+      "172778565148677@lid": "6281235774627@s.whatsapp.net",
+      "136172558917832@lid": "6283857889052@s.whatsapp.net",
+      "43924898971698@lid": "6289682035252@s.whatsapp.net",
+      "127389132677197@lid": "6283117004713@s.whatsapp.net",
+      "145844338724954@lid": "6282134022946@s.whatsapp.net",
+      "104041807909013@lid": "6283171403613@s.whatsapp.net",
+      "61006369837090@lid": "6282298084103@s.whatsapp.net",
+      "262280935686302@lid": "6289677874643@s.whatsapp.net",
+      "47592901738689@lid": "6283871824192@s.whatsapp.net"
+    },
+    "mal_cache": {
+      "1": {
+        "data": {
+          "mal_id": 1,
+          "name": "Spike Spiegel",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Spike Spiegel",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/11/516853.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/1"
+        },
+        "cachedAt": 1785329863180
+      },
+      "164471": {
+        "data": {
+          "mal_id": 164471,
+          "name": "Satoru Gojou",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/15/422168.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/164471"
+        },
+        "cachedAt": 1785332875927
+      },
+      "gojo satoru": {
+        "data": {
+          "mal_id": 164471,
+          "name": "Satoru Gojou",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/15/422168.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/164471"
+        },
+        "cachedAt": 1785332875927
+      }
+    }
+  }
+}
